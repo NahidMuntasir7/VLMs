@@ -1,1 +1,1 @@
-Codes for National Datathon @ CUET CSE FEST 2025
+Qwen2.5-VL-Instruct Inference and Fine-Tuning
